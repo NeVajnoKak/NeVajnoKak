@@ -38,8 +38,4 @@
     <img src="https://skillicons.dev/icons?i=swift,xcode" /><br>
 </div>
 
-<br/>
-<hr/>
-
-
 ###
