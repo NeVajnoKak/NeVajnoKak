@@ -49,8 +49,6 @@
  
 </div>
 
-![snake gif](https://github.com/NeVajnoKak/iOS-Development/blob/output/github-contribution-grid-snake-dark.svg)
- <br/><br/><br/>
 <hr/>
 
 
