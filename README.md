@@ -18,7 +18,7 @@
 
 ### 🌐 Connect with Me  
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/%D0%B5%D1%80%D0%BA%D0%B5%D0%B1%D1%83%D0%BB%D0%B0%D0%BD-%D0%BC%D0%B0%D1%81%D0%B0%D0%B9%D0%BD%D0%BE%D0%B2-9241842b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/yerke-massainov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/NeVajnoKak?tab=repositories" target="_blank">
@@ -38,10 +38,3 @@
   <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,mysql,postgresql,tensorflow,pytorch" />
 </div>
 
----
-
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeVajnoKak&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeVajnoKak&layout=compact&theme=radical" height="150" />
-</div>
