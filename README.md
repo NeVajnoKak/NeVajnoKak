@@ -41,10 +41,10 @@
 
 ### 🌐 Connect with Me  
 <div s> 
-  <a href="https://www.linkedin.com/in/yerke-massainov/" target="_blank">
+  <a style="margin: 5px;" href="https://www.linkedin.com/in/yerke-massainov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/neevajnokak" target="_blank">
+  <a style="margin: 5px;" href="https://www.behance.net/neevajnokak" target="_blank">
      <img src="https://img.shields.io/badge/behance-50C878?style=for-the-badge&logo=behance&logoColor=white" />
     
   </a>
