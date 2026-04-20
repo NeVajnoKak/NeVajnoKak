@@ -1,12 +1,29 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NeVajnoKak.NeVajnoKak" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Erke+Dev!;AI+%26+Fullstack+Developer" />
+  Hi yerke
 </h1>
 
 <h3 align="center">🚀 Passionate about ML, AI & Modern Web/Mobile Development</h3>
 
 ---
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td rowspan="2" style="padding: 4px;">
+      <img src="./images/first.jpg" width="400" height="630"/>
+    </td>
+    <td style="padding: 4px;">
+      <img src="./images/second.jpg" width="250" height="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 4px;">
+      <img src="./images/third.jpg" width="250" height="300"/>
+    </td>
+  </tr>
+</table>
+
 
 ### 🧑‍💻 About Me  
 - 🔭 Currently building **pet projects** in **ML/AI**  
