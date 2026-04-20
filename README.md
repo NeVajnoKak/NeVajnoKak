@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NeVajnoKak.NeVajnoKak" />
 
-<h2 align="center">
+<h1 align="center">
   Welcome, you can call me Yerke 👋
-</h2>
+</h1>
 
 
 <!-- <h3 align="center">🚀 Passionate about ML, AI & Modern Web/Mobile Development</h3> -->
