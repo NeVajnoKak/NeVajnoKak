@@ -1,14 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NeVajnoKak.NeVajnoKak" />
 
-<h1 align="center">
-  Hi yerke
-</h1>
+<h2 align="center">
+  Welcome, you can call me Yerke 👋
+</h2>
 
-<h3 align="center">🚀 Passionate about ML, AI & Modern Web/Mobile Development</h3>
 
----
+<!-- <h3 align="center">🚀 Passionate about ML, AI & Modern Web/Mobile Development</h3> -->
 
-<table style="border-collapse: collapse;">
+<!-- --- -->
+
+<table align="center" style="border-collapse: collapse;">
   <tr>
     <td rowspan="2" style="padding: 4px;">
       <img src="./images/first.jpg" width="400" height="630"/>
@@ -24,6 +25,11 @@
   </tr>
 </table>
 
+<p align="center">
+  <i>Building things, learning fast, and enjoying the process.</i>
+</p>
+
+--- 
 
 ### 🧑‍💻 About Me  
 - 🔭 Currently building **pet projects** in **ML/AI**  
