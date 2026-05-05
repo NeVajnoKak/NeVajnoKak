@@ -44,6 +44,9 @@
   <a style="margin: 5px;" href="https://www.linkedin.com/in/yerke-massainov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a style="margin: 5px;" href="https://portfolio-yerke.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1134C5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a style="margin: 5px;" href="https://www.behance.net/neevajnokak" target="_blank">
      <img src="https://img.shields.io/badge/behance-50C878?style=for-the-badge&logo=behance&logoColor=white" />
     
