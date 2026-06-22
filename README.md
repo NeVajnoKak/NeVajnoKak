@@ -21,14 +21,16 @@
 
 
 --- 
+### 🚀 About Me
 
-### 🧑‍💻 About Me  
-- 🔭 Currently building **pet projects** in **ML/AI**  
-- 🌱 Exploring advanced topics in **Machine Learning & Data Science**  
-- 💬 Ask me about **React, Swift, Django, FastAPI, Spring, Flutter, TS**  
-- ⚡ Fun fact: **I love Apple 🍏 and clean UI**  
+* 💡 Passionate about building modern applications, AI tools, and innovative digital products
+* 🤖 Currently developing projects in **Artificial Intelligence**, **Machine Learning**, and **Web Development**
+* 📚 Continuously learning and exploring advanced concepts in **ML**, **Data Science**, and **Software Architecture**
+* 🛠️ Working with **React**, **Next.js**, **TypeScript**, **Swift**, **Django**, **FastAPI**, **Spring Boot**, and **Flutter**
+* 🎯 Focused on creating clean, scalable, and user-friendly experiences
+* 🌍 Always open to collaboration, exciting projects, and new technologies
+* 🍏 Apple ecosystem enthusiast and lover of minimalist, elegant UI design
 
----
 
 ### 🌐 Connect with Me  
 <div s> 
