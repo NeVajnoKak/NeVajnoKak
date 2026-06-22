@@ -1,64 +1,39 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NeVajnoKak.NeVajnoKak" />
-
-<h1 align="center">
-  Welcome, you can call me Yerke 👋
-</h1>
-
-
-<!-- <h3 align="center">🚀 Passionate about ML, AI & Modern Web/Mobile Development</h3> -->
-
-<!-- --- -->
-
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td rowspan="2" style="padding: 4px;">
-      <img src="./images/first.jpg" width="400" height="630"/>
-    </td>
-    <td style="padding: 4px;">
-      <img src="./images/second.jpg" width="250" height="300"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 4px;">
-      <img src="./images/third.jpg" width="250" height="300"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <i>Building things, learning fast, and enjoying the process.</i>
-</p>
-
---- 
-
-### 🧑‍💻 About Me  
-- 🔭 Currently building **pet projects** in **ML/AI**  
-- 🌱 Exploring advanced topics in **Machine Learning & Data Science**  
-- 💬 Ask me about **React, Swift, Django, FastAPI, Spring, Flutter, TS**  
-- ⚡ Fun fact: **I love Apple 🍏 and clean UI**  
-
----
-
-### 🌐 Connect with Me  
-<div s> 
-  <a style="margin: 5px;" href="https://www.linkedin.com/in/yerke-massainov/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a style="margin: 5px;" href="https://portfolio-yerke.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1134C5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a style="margin: 5px;" href="https://www.behance.net/neevajnokak" target="_blank">
-     <img src="https://img.shields.io/badge/behance-50C878?style=for-the-badge&logo=behance&logoColor=white" />
-    
-  </a>
-</div>
-
----
-
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,typescript,swift,django,fastapi,spring,flutter" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,mysql,postgresql,tensorflow,pytorch" />
+  <!-- GitRoll Badge -->
+  <div align="center">
+    <a href="https://gitroll.io/profile/uSKBUAuwEu2OiuJtJx1Oq1MDhL8S2" target="_blank">
+      <img src="https://gitroll.io/api/badges/profiles/v1/s6vP9klKpmDYJ7lpkPHpa" alt="GitRoll Profile Badge" />
+    </a>
+  </div>
+
+  <!-- Pac-Man Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/images/github-contribution-grid-pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset=".github/images/github-contribution-grid-pacman.svg" />
+    <img alt="GitHub Pac-Man contribution graph" src=".github/images/pacman-contribution-graph.svg" />
+  </picture>
+  
+  <!-- Snake Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/images/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset=".github/images/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake contribution graph" src=".github/images/github-contribution-grid-snake.svg" />
+  </picture>
+
+  <!-- Activity Graph -->
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BankkRoll&theme=react-dark&bg_color=0D1117&hide_border=true&line=07D8FF&point=9600bf&color=FFFFFF" width="100%" alt="Activity Graph" />
+  </div>
 </div>
 
+<!-- GitHub Metrics -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+    <b>GitHub Metrics</b>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+  </h2>
+  <div align="center">
+    <img src=".github/images/github-metrics.svg" width="100%" alt="Detailed GitHub Metrics" />
+  </div>
+</div>
