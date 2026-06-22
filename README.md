@@ -1,7 +1,7 @@
 <div align="center">
   <!-- GitRoll Badge -->
   <div align="center">
-   <a href="https://gitroll.io/profile/u76iJz8qcIlgfzReQkjMDp21uAK23" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u76iJz8qcIlgfzReQkjMDp21uAK23?theme=light" alt="GitRoll Profile Badge"/></a>
+  <a href="https://gitroll.io/profile/u76iJz8qcIlgfzReQkjMDp21uAK23" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u76iJz8qcIlgfzReQkjMDp21uAK23?theme=midnight" alt="GitRoll Profile Badge"/></a>
   </div>
 
   <!-- Pac-Man Contribution Graph -->
