@@ -11,12 +11,7 @@
     <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[NeVajnoKak]/[NeVajnoKak]/output/[game-name]-contribution-graph.svg">
 </picture>
 
-  <!-- Snake Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/images/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset=".github/images/github-contribution-grid-snake.svg" />
-    <img alt="NeVajnoKak GitHub Snake contribution graph" src=".github/images/github-contribution-grid-snake.svg" />
-  </picture>
+
 
   <!-- Activity Graph -->
   <div align="center">
@@ -28,29 +23,3 @@
   </div>
 </div>
 
-<!-- GitHub Metrics -->
-<div align="center">
-  <h2>
-    <img
-      src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
-      width="30"
-      height="30"
-      alt=""
-    />
-    <b>GitHub Metrics</b>
-    <img
-      src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
-      width="30"
-      height="30"
-      alt=""
-    />
-  </h2>
-
-  <div align="center">
-    <img
-      src=".github/images/github-metrics.svg"
-      width="100%"
-      alt="Detailed GitHub Metrics for NeVajnoKak"
-    />
-  </div>
-</div>
