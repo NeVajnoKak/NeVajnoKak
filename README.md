@@ -1,9 +1,11 @@
 <div align="center">
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NeVajnoKak.NeVajnoKak" />
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NeVajnoKak.NeVajnoKak" />
+</p>
 
-<h1>
+<h1 align="center">
   Welcome, you can call me Yerke 👋
 </h1>
 
