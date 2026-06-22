@@ -1,6 +1,9 @@
 <div align="center">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NeVajnoKak.NeVajnoKak" />
-
+  <!-- GitRoll Badge -->
+  <div align="center">
+  <a href="https://gitroll.io/profile/u76iJz8qcIlgfzReQkjMDp21uAK23" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u76iJz8qcIlgfzReQkjMDp21uAK23?theme=midnight" alt="GitRoll Profile Badge"/></a>
+  </div>
 <h1 align="center">
   Welcome, you can call me Yerke 👋
 </h1>
@@ -63,10 +66,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,mysql,postgresql,tensorflow,pytorch" />
 </div>
 
-  <!-- GitRoll Badge -->
-  <div align="center">
-  <a href="https://gitroll.io/profile/u76iJz8qcIlgfzReQkjMDp21uAK23" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u76iJz8qcIlgfzReQkjMDp21uAK23?theme=midnight" alt="GitRoll Profile Badge"/></a>
-  </div>
+
 
  <!-- [pacman] -->
 <picture>
