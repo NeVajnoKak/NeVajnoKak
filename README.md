@@ -20,16 +20,19 @@
 <h3 align="center">🚀 Passionate about ML, AI & Modern Web/Mobile Development</h3>
 
 
---- 
-### 🚀 About Me
+### ⚡ About Me
 
-* 💡 Passionate about building modern applications, AI tools, and innovative digital products
-* 🤖 Currently developing projects in **Artificial Intelligence**, **Machine Learning**, and **Web Development**
-* 📚 Continuously learning and exploring advanced concepts in **ML**, **Data Science**, and **Software Architecture**
-* 🛠️ Working with **React**, **Next.js**, **TypeScript**, **Swift**, **Django**, **FastAPI**, **Spring Boot**, and **Flutter**
-* 🎯 Focused on creating clean, scalable, and user-friendly experiences
-* 🌍 Always open to collaboration, exciting projects, and new technologies
-* 🍏 Apple ecosystem enthusiast and lover of minimalist, elegant UI design
+🚀 Software Developer passionate about building modern applications and AI-powered solutions.
+
+🔭 Currently working on **Machine Learning**, **Artificial Intelligence**, and full-stack development projects.
+
+🌱 Learning more about **Deep Learning**, **Data Science**, **Cloud Infrastructure**, and scalable system design.
+
+💻 Tech Stack: **React • Next.js • TypeScript • Swift • Django • FastAPI • Spring Boot • Flutter**
+
+🎯 Goal: Create products that combine powerful technology with exceptional user experience.
+
+🍏 Apple fanboy, UI perfectionist, and lifelong learner.
 
 
 ### 🌐 Connect with Me  
