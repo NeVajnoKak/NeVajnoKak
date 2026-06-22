@@ -3,7 +3,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NeVajnoKak.NeVajnoKak" />
 
-<h1 align="center">
+<h1>
   Welcome, you can call me Yerke 👋
 </h1>
 
