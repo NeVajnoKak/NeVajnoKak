@@ -17,7 +17,6 @@
 
 
 
-<h3 align="center">🚀 Passionate about ML, AI & Modern Web/Mobile Development</h3>
 
 
 ### ⚡ About Me
@@ -35,7 +34,7 @@
 🍏 Apple fanboy, UI perfectionist, and lifelong learner.
 
 
-### 🌐 Connect with Me  
+### Connect with Me  
 <div s> 
   <a style="margin: 5px;" href="https://www.linkedin.com/in/yerke-massainov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
