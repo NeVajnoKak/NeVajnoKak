@@ -1,8 +1,8 @@
 <div align="center">
   <!-- GitRoll Badge -->
   <div align="center">
-    <a href="https://gitroll.io/profile/uSKBUAuwEu2OiuJtJx1Oq1MDhL8S2" target="_blank">
-      <img src="https://gitroll.io/api/badges/profiles/v1/s6vP9klKpmDYJ7lpkPHpa" alt="NeVajnoKak GitRoll Profile Badge" />
+    <a href="https://gitroll.io/profile/u76iJz8qcIlgfzReQkjMDp21uAK23" target="_blank">
+      <img src="https://gitroll.io/profile/u76iJz8qcIlgfzReQkjMDp21uAK23" alt="NeVajnoKak GitRoll Profile Badge" />
     </a>
   </div>
 
