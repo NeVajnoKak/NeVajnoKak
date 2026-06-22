@@ -59,11 +59,19 @@
 
 
 
- <!-- [pacman] -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[NeVajnoKak]/[NeVajnoKak]/output/[game-name]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[NeVajnoKak]/[NeVajnoKak]/output/[game-name]-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[NeVajnoKak]/[NeVajnoKak]/output/[game-name]-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NeVajnoKak/NeVajnoKak/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NeVajnoKak/NeVajnoKak/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/NeVajnoKak/NeVajnoKak/output/pacman-contribution-graph.svg"
+  />
 </picture>
 
 
