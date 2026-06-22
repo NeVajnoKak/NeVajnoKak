@@ -5,11 +5,11 @@
   </div>
 
   <!-- Pac-Man Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/images/github-contribution-grid-pacman-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset=".github/images/github-contribution-grid-pacman.svg" />
-    <img alt="NeVajnoKak GitHub Pac-Man contribution graph" src=".github/images/github-contribution-grid-pacman.svg" />
-  </picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[NeVajnoKak]/[NeVajnoKak]/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[NeVajnoKak]/[NeVajnoKak]/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[NeVajnoKak]/[NeVajnoKak]/output/[game-name]-contribution-graph.svg">
+</picture>
 
   <!-- Snake Contribution Graph -->
   <picture>
